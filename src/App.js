@@ -40,7 +40,7 @@ function App() {
 
               <footer class="footer">
                 <div class="footer-content">
-                  <p><a href="MANISH PANWAR.pdf" target="_blank"><i class="fa-solid fa-download"></i>Download</a></p>
+                  <p><a href="Resu.pdf" target="_blank"><i class="fa-solid fa-download"></i>Download</a></p>
                 </div>
               </footer>
             </div>
